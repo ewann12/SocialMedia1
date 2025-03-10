@@ -54,6 +54,8 @@ class MainActivity : AppCompatActivity() {
             } else {
                 // Permission denied, handle accordingly
             }
+
         }
+
     }
 }
